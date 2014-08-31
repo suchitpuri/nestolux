@@ -384,8 +384,11 @@ form input {
 	background:rgba(40,18,33,0.7);
 	padding:170px 0 0px 0;
 }
+.brand-logos {
+	padding-left: 3%;
+}
 .brand-logos img {
-	margin-left: 2px;
+		margin-left: 2px;
 
 }
 
